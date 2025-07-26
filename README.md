@@ -8,7 +8,6 @@ O objetivo principal é demonstrar a aplicação de HTML semântico para estrutu
 <br>
 Estrutura Semântica: 
 <br>
-
  Utilização de tags HTML5 como <header>, <main>, <section>, <footer>, <h1>, <h2> e <p> para organizar o conteúdo de maneira lógica.
 
 ##Incorporação de Imagem: 
